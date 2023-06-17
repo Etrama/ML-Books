@@ -2,5 +2,6 @@
 Some ML Books that I am reading / have read:
 - Reading:
   - Interpretable ML : https://christophm.github.io/interpretable-ml-book/
+  - Think Stats
 - Read:
   - Approaching Almost Any ML Problem: https://github.com/abhishekkrthakur/approachingalmost
